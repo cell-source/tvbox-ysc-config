@@ -1,16 +1,29 @@
 {
-  "description": "影视仓 / TVBox 配置源列表：聚合肥猫、饭太硬、王二小、讴歌（欧歌）、摸鱼、OK、小米、巧记、4K小盒子、潇洒等公开接口",
+  "description": "影视仓 / TVBox 配置源列表：官方 10 源 + 实测可用 20 源（每源含主地址与备用通道）",
   "update_interval_hours": 12,
   "sources": [
     {
-      "id": "feimao",
-      "name": "肥猫",
+      "id": "4k",
+      "name": "4K小盒子",
       "urls": [
-        "http://肥猫.com/",
-        "http://肥猫.com/tv",
-        "http://肥猫.net/tv",
-        "http://hello.肥猫.com/",
-        "https://6296.kstore.vip/facat.json"
+        "http://xhztv.top/4k.json",
+        "http://xhztv.top/xhz"
+      ]
+    },
+    {
+      "id": "clun",
+      "name": "Clun在线",
+      "urls": [
+        "https://clun.top/box.json"
+      ]
+    },
+    {
+      "id": "dongliTV",
+      "name": "东篱线路",
+      "urls": [
+        "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+        "https://cdn.jsdelivr.net/gh/chitue/dongliTV@main/api.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
       ]
     },
     {
@@ -27,23 +40,85 @@
       ]
     },
     {
-      "id": "wangerxiao",
-      "name": "王二小",
+      "id": "feimao",
+      "name": "肥猫",
       "urls": [
-        "http://tvbox.王二小放牛娃.top",
-        "http://new.王二小放牛娃.top",
-        "https://d.kstore.dev/download/9280/wex.json",
+        "http://肥猫.com/",
+        "http://肥猫.com/tv",
+        "http://肥猫.net/tv",
+        "http://hello.肥猫.com/",
+        "https://6296.kstore.vip/facat.json"
+      ]
+    },
+    {
+      "id": "gaotianliuyun-gao",
+      "name": "高天流云js",
+      "urls": [
+        "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+        "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+      ]
+    },
+    {
+      "id": "guot55yg",
+      "name": "宝盒备用",
+      "urls": [
+        "https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+        "https://cdn.jsdelivr.net/gh/guot55/yg@main/pg/bh.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
+      ]
+    },
+    {
+      "id": "hakimi",
+      "name": "哈基米",
+      "urls": [
+        "https://17264.kstore.space/哈基米.png"
+      ]
+    },
+    {
+      "id": "jundie",
+      "name": "俊佬在线",
+      "urls": [
+        "http://home.jundie.top:81/top98.json"
+      ]
+    },
+    {
+      "id": "kstore-aowu",
+      "name": "嗷呜线路",
+      "urls": [
+        "https://9763.kstore.vip/aowu.json"
+      ]
+    },
+    {
+      "id": "kstore-newwex",
+      "name": "王二小新",
+      "urls": [
+        "https://9280.kstore.vip/newwex.json",
         "https://9280.kstore.vip/aiwex.json"
       ]
     },
     {
-      "id": "ouge",
-      "name": "讴歌",
+      "id": "kstore-wex",
+      "name": "牛二线路",
       "urls": [
-        "http://tv.nxog.top/m/",
-        "https://欧歌.v.nxog.top/m/",
-        "http://欧歌zp8.v.nxog.top/m/",
-        "https://xn--zp8-mf3g9f.v.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=%E6%AC%A7%E6%AD%8Czp8"
+        "https://9280.kstore.space/wex.json",
+        "https://9280.kstore.space/aiwex.json"
+      ]
+    },
+    {
+      "id": "lushunming",
+      "name": "L佬线路",
+      "urls": [
+        "https://android.lushunming.qzz.io/json/index.json"
+      ]
+    },
+    {
+      "id": "maoystv6",
+      "name": "分享",
+      "urls": [
+        "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+        "https://cdn.jsdelivr.net/gh/maoystv/6@main/000.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json"
       ]
     },
     {
@@ -57,6 +132,14 @@
       ]
     },
     {
+      "id": "noimank-tvbox1",
+      "name": "健康家用",
+      "urls": [
+        "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+        "https://gh-proxy.com/https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+      ]
+    },
+    {
       "id": "ok",
       "name": "OK",
       "urls": [
@@ -65,12 +148,12 @@
       ]
     },
     {
-      "id": "xiaomi",
-      "name": "小米",
+      "id": "ouge",
+      "name": "讴歌",
       "urls": [
-        "http://www.mpanso.com/小米/DEMO.json",
-        "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-        "http://miqk.cc/小米/DEMO.json"
+        "http://tv.nxog.top/m/",
+        "https://欧歌.v.nxog.top/m/",
+        "http://欧歌zp8.v.nxog.top/m/"
       ]
     },
     {
@@ -81,11 +164,44 @@
       ]
     },
     {
-      "id": "4k",
-      "name": "4K小盒子",
+      "id": "szyyds",
+      "name": "小马线路",
       "urls": [
-        "http://xhztv.top/4k.json",
-        "http://xhztv.top/xhz"
+        "https://szyyds.cn/tv/x.json"
+      ]
+    },
+    {
+      "id": "ufuzi-duanju",
+      "name": "短剧频道",
+      "urls": [
+        "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
+      ]
+    },
+    {
+      "id": "wangerxiao",
+      "name": "王二小",
+      "urls": [
+        "http://tvbox.王二小放牛娃.top",
+        "http://new.王二小放牛娃.top",
+        "https://d.kstore.dev/download/9280/wex.json",
+        "https://9280.kstore.vip/aiwex.json",
+        "https://9280.kstore.vip/newwex.json"
+      ]
+    },
+    {
+      "id": "xhztv-4k",
+      "name": "4K小盒子备",
+      "urls": [
+        "http://xhztv.top/4k.json"
+      ]
+    },
+    {
+      "id": "xiaomi",
+      "name": "小米",
+      "urls": [
+        "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+        "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+        "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json"
       ]
     },
     {
@@ -94,6 +210,45 @@
       "urls": [
         "https://9877.kstore.space/one.json",
         "https://9877.kstore.space/AnotherD/api.json"
+      ]
+    },
+    {
+      "id": "xuanzhu",
+      "name": "玄珠",
+      "urls": [
+        "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+      ]
+    },
+    {
+      "id": "xyqonline",
+      "name": "香雅情",
+      "urls": [
+        "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+        "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+      ]
+    },
+    {
+      "id": "yw88075",
+      "name": "心魔在线",
+      "urls": [
+        "https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+        "https://cdn.jsdelivr.net/gh/yw88075/tvbox@main/yw.json",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+      ]
+    },
+    {
+      "id": "zhenxin",
+      "name": "真心",
+      "urls": [
+        "https://www.252035.xyz/z/FongMi.json"
+      ]
+    },
+    {
+      "id": "zq",
+      "name": "zq线路",
+      "urls": [
+        "http://zhangqun1818.serv00.net/zq/api.json"
       ]
     }
   ]
