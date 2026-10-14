@@ -12,7 +12,7 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-14 10:45:12（北京时间） · 成功 **23/30** 个源
+> 🔄 最近更新：2026-10-14 11:05:14（北京时间） · 成功 **21/28** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
@@ -26,7 +26,6 @@
 | 哈基米 | ✅ 成功 | `https://17264.kstore.space/哈基米.png` |
 | 俊佬在线 | ✅ 成功 | `http://home.jundie.top:81/top98.json` |
 | 嗷呜线路 | ✅ 成功 | `https://9763.kstore.vip/aowu.json` |
-| 王二小新 | ✅ 成功 | `https://9280.kstore.vip/newwex.json` |
 | 牛二线路 | ✅ 成功 | `https://9280.kstore.space/wex.json` |
 | L佬线路 | ✅ 成功 | `https://android.lushunming.qzz.io/json/index.json` |
 | 分享 | ✅ 成功 | `https://raw.githubusercontent.com/maoystv/6/main/000.json` |
@@ -38,7 +37,6 @@
 | 小马线路 | ✅ 成功 | `https://szyyds.cn/tv/x.json` |
 | 短剧频道 | ❌ 失败 | HTTPConnectionPool(host='box.ufuzi.com', port=80): Max re... |
 | 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
-| 4K小盒子备 | ✅ 成功 | `http://xhztv.top/4k.json` |
 | 小米 | ❌ 失败 | HTTPConnectionPool(host='miqk.cc', port=80): Max retries ... |
 | 潇洒 | ❌ 失败 | 404 Client Error:  for url: https://9877.kstore.space/Ano... |
 | 玄珠 | ✅ 成功 | `https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json` |
