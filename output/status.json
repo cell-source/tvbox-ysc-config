@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 11:05:14",
+  "updated_at": "2026-10-14 11:16:16",
   "repo": "cell-source/tvbox-ysc-config",
   "sources": [
     {
@@ -74,10 +74,10 @@
       "error": null
     },
     {
-      "id": "kstore-wex",
-      "name": "牛二线路",
+      "id": "kstore-newwex",
+      "name": "王二小新",
       "ok": true,
-      "used_url": "https://9280.kstore.space/wex.json",
+      "used_url": "https://9280.kstore.vip/newwex.json",
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "name": "短剧频道",
       "ok": false,
       "used_url": null,
-      "error": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f947ef882d0>, 'Connection to box.ufuzi.com timed out. (connect timeout=20)'))"
+      "error": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f56371e0d50>, 'Connection to box.ufuzi.com timed out. (connect timeout=20)'))"
     },
     {
       "id": "wangerxiao",
