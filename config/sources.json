@@ -1,5 +1,5 @@
 {
-  "description": "影视仓 / TVBox 配置源列表：官方 10 源 + 实测可用 20 源（每源含主地址与备用通道）",
+  "description": "影视仓 / TVBox 配置源列表：官方 10 源 + 本项目实测收集源（去重后共 28 源，每源含主地址与备用通道）",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -87,14 +87,6 @@
       "name": "嗷呜线路",
       "urls": [
         "https://9763.kstore.vip/aowu.json"
-      ]
-    },
-    {
-      "id": "kstore-newwex",
-      "name": "王二小新",
-      "urls": [
-        "https://9280.kstore.vip/newwex.json",
-        "https://9280.kstore.vip/aiwex.json"
       ]
     },
     {
@@ -189,18 +181,10 @@
       ]
     },
     {
-      "id": "xhztv-4k",
-      "name": "4K小盒子备",
-      "urls": [
-        "http://xhztv.top/4k.json"
-      ]
-    },
-    {
       "id": "xiaomi",
       "name": "小米",
       "urls": [
         "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-        "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
         "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json"
       ]
     },
