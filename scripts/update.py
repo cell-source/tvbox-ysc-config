@@ -281,7 +281,9 @@ def main() -> int:
         or os.environ.get("REPO")
         or DEFAULT_REPO
     )
-    raw_base = f"https://raw.githubusercontent.com/{repo}/main/output"
+    # 子仓地址用 jsDelivr：raw.githubusercontent.com 在国内基本拉不动，
+    # 会导致「多仓」在影视仓里只显示仓名、点进去加载失败。
+    sub_base = f"https://cdn.jsdelivr.net/gh/{repo}@main/output"
 
     status = {"updated_at": now_str, "repo": repo, "sources": []}
     subscriptions = []
@@ -306,7 +308,7 @@ def main() -> int:
                 entry["used_url"] = url
                 entry["error"] = None
                 subscriptions.append(
-                    {"name": name, "url": f"{raw_base}/{sid}.json"}
+                    {"name": name, "url": f"{sub_base}/{sid}.json"}
                 )
                 fetched.append((sid, name, data))
                 ok_count += 1
@@ -329,7 +331,7 @@ def main() -> int:
                         cached = json.load(f)
                     if is_valid_tvbox_config(cached):
                         subscriptions.append(
-                            {"name": name, "url": f"{raw_base}/{sid}.json"}
+                            {"name": name, "url": f"{sub_base}/{sid}.json"}
                         )
                         fetched.append((sid, name, cached))
                         entry["ok"] = True
