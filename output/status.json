@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 11:16:16",
+  "updated_at": "2026-10-14 11:31:44",
   "repo": "cell-source/tvbox-ysc-config",
   "sources": [
     {
@@ -22,13 +22,6 @@
       "ok": true,
       "used_url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
       "error": null
-    },
-    {
-      "id": "fantaiying",
-      "name": "饭太硬",
-      "ok": false,
-      "used_url": null,
-      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "id": "feimao",
@@ -95,25 +88,11 @@
       "error": null
     },
     {
-      "id": "moyu",
-      "name": "摸鱼",
-      "ok": false,
-      "used_url": null,
-      "error": "HTTPConnectionPool(host='xn--c5wa.xn--v4q818bf34b.top', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='xn--c5wa.xn--v4q818bf34b.top', port=80): Failed to resolve 'xn--c5wa.xn--v4q818bf34b.top' ([Errno -2] Name or service not known)\"))"
-    },
-    {
       "id": "noimank-tvbox1",
       "name": "健康家用",
       "ok": true,
       "used_url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
       "error": null
-    },
-    {
-      "id": "ok",
-      "name": "OK",
-      "ok": false,
-      "used_url": null,
-      "error": "HTTPConnectionPool(host='ok321.top', port=80): Max retries exceeded with url: /tv (Caused by NameResolutionError(\"HTTPConnection(host='ok321.top', port=80): Failed to resolve 'ok321.top' ([Errno -5] No address associated with hostname)\"))"
     },
     {
       "id": "ouge",
@@ -124,13 +103,6 @@
       "cached": true
     },
     {
-      "id": "qiaoji",
-      "name": "巧记",
-      "ok": false,
-      "used_url": null,
-      "error": "HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox.json (Caused by NameResolutionError(\"HTTPConnection(host='cdn.qiaoji8.com', port=80): Failed to resolve 'cdn.qiaoji8.com' ([Errno -2] Name or service not known)\"))"
-    },
-    {
       "id": "szyyds",
       "name": "小马线路",
       "ok": true,
@@ -138,32 +110,11 @@
       "error": null
     },
     {
-      "id": "ufuzi-duanju",
-      "name": "短剧频道",
-      "ok": false,
-      "used_url": null,
-      "error": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f56371e0d50>, 'Connection to box.ufuzi.com timed out. (connect timeout=20)'))"
-    },
-    {
       "id": "wangerxiao",
       "name": "王二小",
       "ok": true,
       "used_url": "https://d.kstore.dev/download/9280/wex.json",
       "error": null
-    },
-    {
-      "id": "xiaomi",
-      "name": "小米",
-      "ok": false,
-      "used_url": null,
-      "error": "HTTPConnectionPool(host='miqk.cc', port=80): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by NameResolutionError(\"HTTPConnection(host='miqk.cc', port=80): Failed to resolve 'miqk.cc' ([Errno -3] Temporary failure in name resolution)\"))"
-    },
-    {
-      "id": "xiaosa",
-      "name": "潇洒",
-      "ok": false,
-      "used_url": null,
-      "error": "404 Client Error:  for url: https://9877.kstore.space/AnotherD/api.json"
     },
     {
       "id": "xuanzhu",
