@@ -1,5 +1,5 @@
 {
-  "description": "影视仓 / TVBox 配置源列表：官方 10 源 + 本项目实测收集源（已按实际抓取内容去重，共 28 源；每源含主地址与备用通道）",
+  "description": "影视仓 / TVBox 配置源列表：21 个实测可用源（已剔除 7 个下游已关停/不可达源，并按实际抓取内容去重；每源含主地址与备用通道）",
   "update_interval_hours": 12,
   "sources": [
     {
@@ -24,19 +24,6 @@
         "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
         "https://cdn.jsdelivr.net/gh/chitue/dongliTV@main/api.json",
         "https://gh-proxy.com/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json"
-      ]
-    },
-    {
-      "id": "fantaiying",
-      "name": "饭太硬",
-      "urls": [
-        "http://www.饭太硬.com/tv",
-        "http://www.饭太硬.net/tv",
-        "http://www.饭太硬.xyz/tv",
-        "http://www.饭太硬.cc/tv",
-        "http://fty.xxooo.cf/tv",
-        "http://fty.888484.xyz/tv",
-        "http://fty.333232.xyz/tv"
       ]
     },
     {
@@ -114,29 +101,11 @@
       ]
     },
     {
-      "id": "moyu",
-      "name": "摸鱼",
-      "urls": [
-        "http://我不是.摸鱼儿.top",
-        "http://我不是.摸鱼儿.com",
-        "http://我不是.摸鱼儿.xyz",
-        "http://清清.摸鱼儿.top"
-      ]
-    },
-    {
       "id": "noimank-tvbox1",
       "name": "健康家用",
       "urls": [
         "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
         "https://gh-proxy.com/https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-      ]
-    },
-    {
-      "id": "ok",
-      "name": "OK",
-      "urls": [
-        "http://ok321.top/ok",
-        "http://ok321.top/tv"
       ]
     },
     {
@@ -149,24 +118,10 @@
       ]
     },
     {
-      "id": "qiaoji",
-      "name": "巧记",
-      "urls": [
-        "http://cdn.qiaoji8.com/tvbox.json"
-      ]
-    },
-    {
       "id": "szyyds",
       "name": "小马线路",
       "urls": [
         "https://szyyds.cn/tv/x.json"
-      ]
-    },
-    {
-      "id": "ufuzi-duanju",
-      "name": "短剧频道",
-      "urls": [
-        "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json"
       ]
     },
     {
@@ -178,22 +133,6 @@
         "https://d.kstore.dev/download/9280/wex.json",
         "https://9280.kstore.vip/aiwex.json",
         "https://9280.kstore.vip/newwex.json"
-      ]
-    },
-    {
-      "id": "xiaomi",
-      "name": "小米",
-      "urls": [
-        "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
-        "http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json"
-      ]
-    },
-    {
-      "id": "xiaosa",
-      "name": "潇洒",
-      "urls": [
-        "https://9877.kstore.space/one.json",
-        "https://9877.kstore.space/AnotherD/api.json"
       ]
     },
     {
