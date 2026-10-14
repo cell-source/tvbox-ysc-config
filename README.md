@@ -12,20 +12,40 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-14 04:10:46（北京时间） · 成功 **4/10** 个源
+> 🔄 最近更新：2026-10-14 10:45:12（北京时间） · 成功 **23/30** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
-| 肥猫 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
-| 饭太硬 | ❌ 失败 | Expecting value: line 1 column 1 (char 0) |
-| 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
-| 讴歌 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
-| 摸鱼 | ❌ 失败 | HTTPConnectionPool(host='xn--c5wa.xn--v4q818bf34b.top', p... |
-| OK | ❌ 失败 | HTTPConnectionPool(host='ok321.top', port=80): Max retrie... |
-| 小米 | ❌ 失败 | HTTPConnectionPool(host='miqk.cc', port=80): Max retries ... |
-| 巧记 | ❌ 失败 | HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max ... |
 | 4K小盒子 | ✅ 成功 | `http://xhztv.top/4k.json` |
+| Clun在线 | ✅ 成功 | `https://clun.top/box.json` |
+| 东篱线路 | ✅ 成功 | `https://raw.githubusercontent.com/chitue/dongliTV/main/api.json` |
+| 饭太硬 | ❌ 失败 | Expecting value: line 1 column 1 (char 0) |
+| 肥猫 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
+| 高天流云js | ✅ 成功 | `https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json` |
+| 宝盒备用 | ✅ 成功 | `https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json` |
+| 哈基米 | ✅ 成功 | `https://17264.kstore.space/哈基米.png` |
+| 俊佬在线 | ✅ 成功 | `http://home.jundie.top:81/top98.json` |
+| 嗷呜线路 | ✅ 成功 | `https://9763.kstore.vip/aowu.json` |
+| 王二小新 | ✅ 成功 | `https://9280.kstore.vip/newwex.json` |
+| 牛二线路 | ✅ 成功 | `https://9280.kstore.space/wex.json` |
+| L佬线路 | ✅ 成功 | `https://android.lushunming.qzz.io/json/index.json` |
+| 分享 | ✅ 成功 | `https://raw.githubusercontent.com/maoystv/6/main/000.json` |
+| 摸鱼 | ❌ 失败 | HTTPConnectionPool(host='xn--c5wa.xn--v4q818bf34b.top', p... |
+| 健康家用 | ✅ 成功 | `https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json` |
+| OK | ❌ 失败 | HTTPConnectionPool(host='ok321.top', port=80): Max retrie... |
+| 讴歌 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
+| 巧记 | ❌ 失败 | HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max ... |
+| 小马线路 | ✅ 成功 | `https://szyyds.cn/tv/x.json` |
+| 短剧频道 | ❌ 失败 | HTTPConnectionPool(host='box.ufuzi.com', port=80): Max re... |
+| 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
+| 4K小盒子备 | ✅ 成功 | `http://xhztv.top/4k.json` |
+| 小米 | ❌ 失败 | HTTPConnectionPool(host='miqk.cc', port=80): Max retries ... |
 | 潇洒 | ❌ 失败 | 404 Client Error:  for url: https://9877.kstore.space/Ano... |
+| 玄珠 | ✅ 成功 | `https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json` |
+| 香雅情 | ✅ 成功 | `https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` |
+| 心魔在线 | ✅ 成功 | `https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json` |
+| 真心 | ✅ 成功 | `https://www.252035.xyz/z/FongMi.json` |
+| zq线路 | ✅ 成功 | `http://zhangqun1818.serv00.net/zq/api.json` |
 <!-- STATUS_END -->
 
 ## 二、仓库结构
