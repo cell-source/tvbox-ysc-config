@@ -12,20 +12,20 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-15 14:44:02（北京时间） · 成功 **21/21** 个源
+> 🔄 最近更新：2026-10-16 01:59:49（北京时间） · 成功 **21/21** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
 | 4K小盒子 | ✅ 成功 | `http://xhztv.top/4k.json` |
 | Clun在线 | ✅ 成功 | `https://clun.top/box.json` |
 | 东篱线路 | ✅ 成功 | `https://raw.githubusercontent.com/chitue/dongliTV/main/api.json` |
-| 肥猫 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
+| 肥猫 | ✅ 成功 | `http://肥猫.net/tv` |
 | 高天流云js | ✅ 成功 | `https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json` |
 | 宝盒备用 | ✅ 成功 | `https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json` |
 | 哈基米 | ✅ 成功 | `https://17264.kstore.space/哈基米.png` |
 | 俊佬在线 | ✅ 成功 | `http://home.jundie.top:81/top98.json` |
 | 嗷呜线路 | ✅ 成功 | `https://9763.kstore.vip/aowu.json` |
-| 王二小新 | ✅ 成功 | `https://9280.kstore.vip/newwex.json` |
+| 王二小新 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | L佬线路 | ✅ 成功 | `https://android.lushunming.qzz.io/json/index.json` |
 | 分享 | ✅ 成功 | `https://raw.githubusercontent.com/maoystv/6/main/000.json` |
 | 健康家用 | ✅ 成功 | `https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json` |

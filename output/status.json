@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 14:44:02",
+  "updated_at": "2026-10-16 01:59:49",
   "repo": "cell-source/tvbox-ysc-config",
   "sources": [
     {
@@ -27,9 +27,8 @@
       "id": "feimao",
       "name": "肥猫",
       "ok": true,
-      "used_url": "(缓存)",
-      "error": "401 Client Error:  for url: https://6296.kstore.vip/facat.json",
-      "cached": true
+      "used_url": "http://肥猫.net/tv",
+      "error": null
     },
     {
       "id": "gaotianliuyun-gao",
@@ -70,8 +69,9 @@
       "id": "kstore-newwex",
       "name": "王二小新",
       "ok": true,
-      "used_url": "https://9280.kstore.vip/newwex.json",
-      "error": null
+      "used_url": "(缓存)",
+      "error": "HTTPSConnectionPool(host='9280.kstore.vip', port=443): Read timed out. (read timeout=20)",
+      "cached": true
     },
     {
       "id": "lushunming",
