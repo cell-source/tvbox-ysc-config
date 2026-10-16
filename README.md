@@ -12,7 +12,7 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-16 01:59:49（北京时间） · 成功 **21/21** 个源
+> 🔄 最近更新：2026-10-16 14:35:30（北京时间） · 成功 **21/21** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
@@ -25,7 +25,7 @@
 | 哈基米 | ✅ 成功 | `https://17264.kstore.space/哈基米.png` |
 | 俊佬在线 | ✅ 成功 | `http://home.jundie.top:81/top98.json` |
 | 嗷呜线路 | ✅ 成功 | `https://9763.kstore.vip/aowu.json` |
-| 王二小新 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
+| 王二小新 | ✅ 成功 | `https://9280.kstore.vip/newwex.json` |
 | L佬线路 | ✅ 成功 | `https://android.lushunming.qzz.io/json/index.json` |
 | 分享 | ✅ 成功 | `https://raw.githubusercontent.com/maoystv/6/main/000.json` |
 | 健康家用 | ✅ 成功 | `https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json` |

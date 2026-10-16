@@ -9971,7 +9971,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261015】🐮",
+      "name": "🐮【更新日期:20261016】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -11551,6 +11551,56 @@
       "api": "./PY/分享者咕噜.py"
     },
     {
+      "key": "懒懒视频APP",
+      "name": "💝分享懒懒",
+      "type": 3,
+      "api": "./JS/llsp.min.js",
+      "ext": {
+        "appId": "522",
+        "verCode": 58,
+        "verName": "2.4.21",
+        "pkg": "com.lanlanys.app",
+        "appKey": "dec99f2e3071ece8c7aa5b2fd5800a6f",
+        "appSecret": "d686e49b39c996326bfe7b5f28846bb8",
+        "soMd5": "99b9e59d555d4bdb5c7adf14c7f901e6",
+        "apkMd5": "78c25ff2caeb04f9199303e01d039eb6",
+        "pkgMd5": "4f7f5abdc826f5e62164fb0d0af1a9b1",
+        "signMd5": "9007968b9871d31ce96ed812d1128f0d",
+        "host": [
+          "https://llsp1.oss-cn-hangzhou.aliyuncs.com/llsp20250605.json",
+          "https://llsp-1330823543.cos.ap-guangzhou.myqcloud.com/llsp20250605.json"
+        ],
+        "newHost": "http://118.31.73.148:9981",
+        "bizHost": "http://llsp3.terribly.cn",
+        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqAp1r0KfdEbfAATZXqWMQdEHCfeMdsI7gegO2CtQgzJ5UcXHtdnRUnWd8uKHd5p1jB8ndpTmZEv6BpODgYVLOqAjpO44Z1j6WJVXZ0h19zdjyzzOqhBkEmmKPcQiF+LYqjE/0t0xdNoxgxDBQXyK1PPfmQzfmhhlacQnStL181oCRimZhwEjjha4sqnjmMJTg6JBf6zj5o2btutVT8NUMMZRSmLXqMoDj6oTJapkStlRynihNKn9AiCyozUa6VOmrlZZEnL4yjIgBqYCIS7UAyWE38HeBj7OAEAn7IBrnn1Qrw9u0J2L3Fd40zdHcmBYZa6OF05GNpR1SVlmQtL/QwIDAQAB"
+      }
+    },
+    {
+      "key": "南瓜视频APP",
+      "name": "💝分享南瓜",
+      "type": 3,
+      "api": "./JS/llsp.min.js",
+      "ext": {
+        "appId": "10003",
+        "verCode": 58,
+        "verName": "1.0.0",
+        "pkg": "com.dongyu.movies",
+        "appKey": "00823f50736454de37cfef8b260c9e35",
+        "appSecret": "aca767d257733a3d97fe125bb9150feb",
+        "soMd5": "28922fee11cea66d7e9f2b5c02151b44",
+        "apkMd5": "415705b07be237654f9a760306f01c9f",
+        "pkgMd5": "725e9c0fda0e0925e234d8256dc08b07",
+        "signMd5": "d97197f84e41b05941688809857e0685",
+        "host": [
+          "https://nanguasp.oss-cn-hangzhou.aliyuncs.com/nannan07124.json"
+        ],
+        "newHost": "http://134.175.188.60:4491",
+        "bizHost": "http://134.175.188.60:2025",
+        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfgFYt5LTHeDslGbyQb836pa/f9FaJa20ZvU3rq2TaT4QxbhzMz0QlXhxyJA78VEooiFzNsOKJDFZAvAYGHid1BvTkqEmwaUD38WN/gOXWPevX20X13kbKlKctbTzqB6CsKLdxYyjB4awtF6o66cVFwLAjPmeePSxiSIoMKaO8jZakhHlPMhIgztAgd09eX+bSM6pve35k9CV5X2GSey7Dtth4DQz/NZVc8HGb79uhyrwH1h6IV3BKgOoqcpsHUcggoV1bJ3IIT0+WUMM8S9Yo2dh9T2EXc+gmIH0UAIxwKxmO1jTNzTDR7BvOCMnJQs5DIUx409BPdLdg4zg0SbmQIDAQAB",
+        "privateKey": "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCN9LrnN2+FFW9oTw5ySIQxClbNZyPQyXyueQmsJw9PELWamIvyrVDhsi2862Da83nXRwjzcBsuT3fSq4BETKfRpsOrI3xprN6HyB+aALoYJbdMt5p3liUeyaw9WNxGZ2VhJ+st6ThGNikKRinFgPkOKaocZgefK7MuKI/EJKrj/FFB1WUE1I1/TT5bkIFMmjc8dszKyqxNdDaRgNTNP1Xou0s/tRCgKpmc503wf2h46F94YK6tpbHvYKouCCKps5ieUu+eWsXZmLRfiM0iZQcD0K5wcbrMvWcS/KmElkWPsCOwErpd/EDgeIbVKtsoHPewG8fOta75iCcb8/J56VbZAgMBAAECggEBAI2+8WIvWIvq+3OMfUBgaJ8PU92GP50blAQjmCTuW7r3VF8qM5P+u+ShpkoePnhi5iawJ5/tMTbs4xjZZxrL8EbH3lnk9TYQB6RNkECWuTujbYSNURBYPHihp/sZ39ntJK3+zjbpyedR7Wj05oDwZ8BcmiABQVsOp7xPhD623m0G3wSYtv1bIeCc+vP8pc1kauCPXl5ZyNCUN6XZKH1mvRkGd+VP9hCYr5LOsPVvn3JM8yF5HUJbxltzZVU/m9WcN9D3lcJ9pqpKBd99G1l5zsN+U23+4VvwX8Qhj4ZkNlMCaNndj+6PvhPGMp4+cCpt94I3xh/OqjdrUAd6jnZpioECgYEA709jQ+yFCobRPKzT/PT6KsqVIJJn0FTMXVc1VP5Sn3t5NTQ+iLzOxQRcO1aTNFVgNKhIgsVnVlGh+1Oa2Zor3vXr1eQBjHCZ2zOH+2QdZbRk4GXoOsZ0d203H189SBCTVj20Zd8mL5csBvihIsMjKZ6R62k/mEyOLD+IVuh+axMCgYEAl9sxrVbU1bvGYgHkGWV7BkqYsezOXR65F3eRq8jbNV0YdYN7rnFCStllIJsMCzJBSs2rBD3lcY6/Tk2ThlFIVHVEhgjjRAUIrLHQBJrFKCSusDMGX39Ekk5DZa+5JNak5J7Ikon6klYtDa1G8PFQTJDKTDfQLm/NgryVFS4Np+MCgYEAljLAfcg8NEAroSZkIvbq8OKXOItLRxGB9u+eVIsO9nP7vi3dNdsy96rl7IRI/ea77DDW2eTmF+JChUiS/xJpiJXXADcL1cZyeobcSScr4EKZsdGkMQeP38kXeMRA5TMqFk3CJNIq2GHMS0/Pas8JCb0xnow/UupxrUnu24UumysCgYBKjYuLDVk6gZC45zLEISVQBmmG2LrLztySH9q9msO8JDNw5hdfoi0osChM5LH6ATc68VQnpfeyU6GqYL2vsNIw3M3CfDSPXWVP25BD4nQu7CtzR+m2ErZomdHO54GfC14y+51/DAyfsX02/L4aZm7E2ETpPHGRisQ7jjgnCNAdfwKBgQDSVzfLvsDi2UqbTjyEIeVYPfgm3Owo0fh79rKvinAainQHabVkAezx+RwiJdWeor/08WiyDjFZC86hJOH8gSMLZ2yJw6EVgHqLTvJ+nkYbk0LzvS2gS2h9lDnqOkkKGZBc5l8k/ScCytcDz3WUFEC2TV2CXDj89H14699s1SjpSw=="
+      }
+    },
+    {
       "key": "马猴网",
       "name": "💝分享马猴",
       "type": 3,
@@ -11932,15 +11982,6 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py",
       "quickSearch": 1,
       "changeable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "maoystv6_漫闪",
-      "name": "💝分享漫闪",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/分享漫闪.py",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -22645,19 +22686,19 @@
       }
     },
     {
+      "name": "💝分享者解析0",
+      "type": 1,
+      "url": "http://8.134.205.252:39466/ceshi/qianyi.php?key=rkd&url="
+    },
+    {
+      "name": "💝分享者解析",
+      "type": 1,
+      "url": "http://zxy-th1.jsszks.dpdns.org:8090/?url="
+    },
+    {
       "name": "💝分享者解析❶",
       "type": 1,
-      "url": "http://1.94.244.214:8889/geturl?url="
-    },
-    {
-      "name": "💝分享者解析❷",
-      "type": 0,
-      "url": "http://jx.abplayer.top/?u{}rl="
-    },
-    {
-      "name": "💝分享者解析⊗",
-      "type": 1,
-      "url": "http://8.134.205.252:39466/ceshi/cs.php?key=udk&url="
+      "url": "https://183933.xyz/xiaye.php?url="
     },
     {
       "name": "💝分享者解析①",
@@ -22667,47 +22708,7 @@
     {
       "name": "💝分享者解析②",
       "type": 1,
-      "url": "http://nsys.hundong.xyz/api/?key=EdG87gW0IDYarx9ry5&url="
-    },
-    {
-      "name": "💝分享者解析③",
-      "type": 1,
-      "url": "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url="
-    },
-    {
-      "name": "💝分享者解析④",
-      "type": 1,
       "url": "https://player.gimy.bot/u/parse.php?url="
-    },
-    {
-      "name": "💝分享者解析⑤",
-      "type": 1,
-      "url": "http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url="
-    },
-    {
-      "name": "💝分享者解析✾",
-      "type": 1,
-      "url": "https://api.jxapi.cc/api/?key=6e4acf058180b58cbdb0106aa5cdb1e2&url="
-    },
-    {
-      "name": "💝分享者解析❂",
-      "type": 1,
-      "url": "https://api.huaqi.pro/api/?key=5bd0db7c858ba9f999373450f3651af7&url="
-    },
-    {
-      "name": "💝分享者解析✻",
-      "type": 1,
-      "url": "http://111.170.140.70:1332/?url="
-    },
-    {
-      "name": "💝分享者解析✸",
-      "type": 1,
-      "url": "http://jiexi.69mini.com/api/?key=5cc632accf2f4b27a417b89c8edf69c7&url="
-    },
-    {
-      "name": "💝分享者解析✺",
-      "type": 1,
-      "url": "http://111.170.140.70:1332/?url="
     },
     {
       "name": "💝分享者解析-",
@@ -22725,49 +22726,12 @@
       }
     },
     {
-      "name": "💝分享者解析",
+      "name": "💝分享者解析③",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "💖分享者解析1",
-      "type": 1,
-      "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
         }
       }
     },
@@ -24516,6 +24480,17 @@
       ]
     },
     {
+      "name": "暴风",
+      "hosts": [
+        "bfzy",
+        "bfbfvip",
+        "bfengbf"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
+      ]
+    },
+    {
       "hosts": [
         "xbv2608"
       ],
@@ -24615,15 +24590,6 @@
       "host": "dyxs20.com",
       "rule": [
         ".m3u8"
-      ]
-    },
-    {
-      "name": "暴风",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
     {
