@@ -9083,13 +9083,14 @@
       "changeable": 1
     },
     {
-      "name": "🐱番薯┃动漫",
-      "key": "DMfans",
+      "name": "🐱冬瓜┃动漫",
+      "key": "DMxigua",
       "type": 3,
-      "api": "csp_DMfansAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
+      "api": "csp_DMxiguaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "DMxigua"
     },
     {
       "name": "🐱牛来┃动漫",
@@ -11403,8 +11404,14 @@
       ]
     },
     {
-      "key": "影探",
+      "key": "4K",
       "name": "💝分享影探",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "影探",
+      "name": "💝分享影探+",
       "type": 3,
       "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py"
     },
@@ -23432,30 +23439,6 @@
         "223.6.6.6",
         "2400:3200::1",
         "2400:3200:baba::1"
-      ]
-    },
-    {
-      "name": "OneDNS",
-      "url": "https://doh-pure.onedns.net/dns-query",
-      "ips": [
-        "117.50.10.10",
-        "52.80.52.52"
-      ]
-    },
-    {
-      "name": "NextDNS",
-      "url": "https://dns.nextdns.io/your_profile_id",
-      "ips": [
-        "45.90.28.0",
-        "45.90.30.0"
-      ]
-    },
-    {
-      "name": "ControlD",
-      "url": "https://freedns.controld.com/p0",
-      "ips": [
-        "76.76.2.0",
-        "76.76.10.0"
       ]
     }
   ],
