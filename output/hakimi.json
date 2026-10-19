@@ -1,6 +1,7 @@
 {
   "spider": "https://mpimg.cn/down.php/ea7a1ae7d5b3a88329515f918385276a.jar",
   "logo": "https://fanqienovel.com/page/7621843563495558206",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "lives": [
     {
       "name": "没4K",
