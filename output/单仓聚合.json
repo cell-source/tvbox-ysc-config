@@ -793,7 +793,11 @@
       "key": "py_shortfilm",
       "name": "短剧[py]",
       "type": 3,
-      "api": "./py/shortfilm.py"
+      "api": "./py/shortfilm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "py_apples",
@@ -6759,6 +6763,24 @@
       "index": 1
     },
     {
+      "key": "西瓜",
+      "name": "西瓜",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py"
+    },
+    {
+      "key": "懂骗",
+      "name": "懂骗",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py"
+    },
+    {
+      "key": "移动",
+      "name": "移动",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py"
+    },
+    {
       "key": "影",
       "name": "影",
       "type": 3,
@@ -7053,7 +7075,7 @@
       "api": "https://fastlink.cokey.xyz/f/AGJeHm/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     },
     {
-      "key": "移动",
+      "key": "hakimi_移动",
       "name": "九灵｜免扫4k｜移动",
       "type": 3,
       "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
@@ -11277,6 +11299,12 @@
       }
     },
     {
+      "key": "TVB云.py",
+      "name": "💝分享tvb云",
+      "type": 3,
+      "api": "./PY/TVB云播.py"
+    },
+    {
       "key": "ZIP0影视",
       "name": "💝分享ZIP0",
       "type": 3,
@@ -12078,7 +12106,7 @@
       "changeable": 0
     },
     {
-      "key": "西瓜",
+      "key": "maoystv6_西瓜",
       "name": "💝分享西瓜",
       "type": 3,
       "searchable": 1,

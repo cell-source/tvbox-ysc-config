@@ -1,7 +1,6 @@
 {
   "spider": "https://mpimg.cn/down.php/ea7a1ae7d5b3a88329515f918385276a.jar",
   "logo": "https://fanqienovel.com/page/7621843563495558206",
-  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "lives": [
     {
       "name": "没4K",
@@ -100,6 +99,24 @@
       "api": "csp_SecureDanmu",
       "jar": "https://wp.kayyw.com/f/mLbwU9/danmu.jar",
       "index": 1
+    },
+    {
+      "key": "西瓜",
+      "name": "西瓜",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py"
+    },
+    {
+      "key": "懂骗",
+      "name": "懂骗",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py"
+    },
+    {
+      "key": "移动",
+      "name": "移动",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py"
     },
     {
       "key": "影",
