@@ -8082,6 +8082,34 @@
       "timeout": 60
     },
     {
+      "key": "卡卡",
+      "name": "卡卡*4K",
+      "type": 3,
+      "api": "csp_KKPan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "小丑",
+      "name": "小丑*4K",
+      "type": 3,
+      "api": "csp_4KZhinan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kxc.com"
+        ]
+      },
+      "timeout": 60
+    },
+    {
       "key": "即刻",
       "name": "即刻*4K",
       "type": 3,
@@ -9112,14 +9140,13 @@
       "changeable": 1
     },
     {
-      "name": "🐱冬瓜┃动漫",
-      "key": "DMxigua",
+      "name": "🐱嗷嗚┃动漫",
+      "key": "DMcyc",
       "type": 3,
-      "api": "csp_DMxiguaAmns",
+      "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "DMxigua"
+      "changeable": 1
     },
     {
       "name": "🐱牛来┃动漫",
@@ -9138,6 +9165,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "name": "🐱冬瓜┃动漫",
+      "key": "DMxigua",
+      "type": 3,
+      "api": "csp_DMxiguaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "DMxigua"
     },
     {
       "name": "🐱魔都┃动漫",
