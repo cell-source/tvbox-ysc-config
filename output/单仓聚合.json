@@ -9652,7 +9652,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261023】🐮",
+      "name": "🐮【更新日期:20261026】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -11220,6 +11220,16 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/橘汁.py"
     },
     {
+      "key": "华谊影视",
+      "name": "💝分享华谊",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/华谊影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "maoystv6_咕噜",
       "name": "💝分享咕噜",
       "type": 3,
@@ -11565,16 +11575,6 @@
       "name": "💝分享影巢",
       "type": 3,
       "api": "./PY/分享者影巢.py"
-    },
-    {
-      "key": "华谊影视",
-      "name": "💝分享华谊",
-      "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
     },
     {
       "key": "jy.py",
