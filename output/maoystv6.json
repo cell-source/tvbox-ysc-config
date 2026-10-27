@@ -143,7 +143,7 @@
       "key": "华谊影视",
       "name": "💝分享华谊",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/华谊影视.py",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -302,10 +302,17 @@
       "api": "./PY/TVB云播.py"
     },
     {
-      "key": "ZIP0影视",
-      "name": "💝分享ZIP0",
+      "key": "py_金牌影视",
+      "name": "💖分享金牌",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ZIP0影视.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
     },
     {
       "key": "看剧ai",
@@ -852,19 +859,6 @@
       "name": "💖分享Acfun",
       "type": 3,
       "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"
-    },
-    {
-      "key": "py_金牌影视",
-      "name": "💖分享金牌",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.lwdys.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
     },
     {
       "key": "分享农民",
@@ -2282,6 +2276,26 @@
       "url": "https://player.gimy.bot/u/parse.php?url="
     },
     {
+      "name": "💝分享者爱心",
+      "type": 4,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "💝分享者淘片",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
       "name": "💕分享者嗅探",
       "type": 0,
       "url": " https://jx.789jiexi.net:4433/?url="
@@ -2298,98 +2312,6 @@
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "💕分享西瓜",
-      "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ],
-        "header": {
-          "User-Agent": "Dart/3.0(dart:io)"
-        }
-      }
-    },
-    {
-      "name": "💕分享夜幕",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ],
-        "header": {
-          "User-Agent": "Dart/3.0(dart:io)"
         }
       }
     }

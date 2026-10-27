@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 03:41:28",
+  "updated_at": "2026-10-27 15:03:33",
   "repo": "cell-source/tvbox-ysc-config",
   "sources": [
     {
@@ -55,8 +55,9 @@
       "id": "jundie",
       "name": "俊佬在线",
       "ok": true,
-      "used_url": "http://home.jundie.top:81/top98.json",
-      "error": null
+      "used_url": "(缓存)",
+      "error": "HTTPConnectionPool(host='home.jundie.top', port=81): Max retries exceeded with url: /top98.json (Caused by ConnectTimeoutError(<HTTPConnection(host='home.jundie.top', port=81) at 0x7543cafa02d0>, 'Connection to home.jundie.top timed out. (connect timeout=20)'))",
+      "cached": true
     },
     {
       "id": "kstore-aowu",
