@@ -12,7 +12,7 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-27 15:03:33（北京时间） · 成功 **21/21** 个源
+> 🔄 最近更新：2026-10-28 03:06:10（北京时间） · 成功 **21/21** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
@@ -23,7 +23,7 @@
 | 高天流云js | ✅ 成功 | `https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json` |
 | 宝盒备用 | ✅ 成功 | `https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json` |
 | 哈基米 | ✅ 成功 | `https://17264.kstore.space/哈基米.png` |
-| 俊佬在线 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
+| 俊佬在线 | ✅ 成功 | `http://home.jundie.top:81/top98.json` |
 | 嗷呜线路 | ✅ 成功 | `https://9763.kstore.vip/aowu.json` |
 | 王二小新 | ✅ 成功 | `https://9280.kstore.vip/newwex.json` |
 | L佬线路 | ✅ 成功 | `https://android.lushunming.qzz.io/json/index.json` |
