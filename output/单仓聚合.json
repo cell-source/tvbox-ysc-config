@@ -11344,6 +11344,21 @@
       "ext": "./PY/bpy.js"
     },
     {
+      "key": "小鸡看看",
+      "name": "💝分享看看",
+      "type": 3,
+      "api": "./PY/小鸡看看.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "maoystv6_看剧AI",
+      "name": "💝分享看剧",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py"
+    },
+    {
       "key": "maoystv6_SZ",
       "name": "💝分享山楂",
       "type": 3,
@@ -11361,7 +11376,7 @@
     },
     {
       "key": "TVB云.py",
-      "name": "💝分享tvb云",
+      "name": "💝分享TV云",
       "type": 3,
       "api": "./PY/TVB云播.py"
     },
@@ -11379,26 +11394,79 @@
       }
     },
     {
-      "key": "看剧ai",
-      "name": "💝分享AI看",
+      "key": "壹影.py",
+      "name": "💝分享壹影",
       "type": 3,
-      "api": "./JS/看剧ai.js",
-      "ext": {
-        "cookie": "相对txt路径./config/xxx.txt 或者直接放ck本身    大部分官方线路需要ck 无需登录"
-      },
-      "changeable": 0
+      "api": "./PY/壹影视.py"
     },
     {
-      "key": "vidhub.py",
-      "name": "💝分享vidhub",
-      "type": 3,
-      "api": "./PY/vidhub.py"
-    },
-    {
-      "key": "剧迷",
+      "key": "剧迷TV[APP]",
       "name": "💝分享剧迷",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/jm.py"
+      "api": "./PY/看客TV.py",
+      "ext": {
+        "CosUrl": "http://2025-1329689796.cos.ap-guangzhou.myqcloud.com/jumi1.0/app1.json"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "💝分享魔方",
+      "type": 3,
+      "api": "./PY/getapp3.4.6.py",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://www.douy32mf.top",
+        "key": "1234567887654321",
+        "dataIv": "1234567887654321"
+      },
+      "category": "综合"
+    },
+    {
+      "key": "秒看",
+      "name": "💝分享秒看",
+      "type": 3,
+      "api": "./PY/getapp3.4.6.py",
+      "ext": {
+        "host": "https://mk1080.top/",
+        "key": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "6c73543e2d4f350d9ec4ecbbb78b51b9a6cb7803f5067601108f9561f14c429b"
+      }
+    },
+    {
+      "key": "maoystv6_王子",
+      "name": "💝分享王子",
+      "type": 3,
+      "api": "./PY/getapp3.4.6.py",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://app.95112475.xyz",
+        "key": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },
+    {
+      "key": "茉莉Get",
+      "name": "💝分享茉莉",
+      "type": 3,
+      "api": "./PY/getapp3.4.6.py",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "key": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
+    {
+      "key": "麦田影院[AppV2]",
+      "name": "💝分享麦田",
+      "type": 3,
+      "changeable": 0,
+      "api": "./PY/AppV2.py",
+      "ext": "https://build.mt320.com/domain.json$/mtys.php/v6"
     },
     {
       "key": "山有木兮",
@@ -11578,20 +11646,6 @@
       "name": "💝分享达兔",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/达达兔影院(关梯).py"
-    },
-    {
-      "key": "maoystv6_看剧AI",
-      "name": "💝分享看剧",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py"
-    },
-    {
-      "key": "看客TV",
-      "name": "💝分享看客",
-      "type": 3,
-      "api": "./PY/看客TV.py",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "maoystv6_应该可以",
@@ -14739,7 +14793,7 @@
       "quickSearch": 1
     },
     {
-      "key": "秒看",
+      "key": "szyyds_秒看",
       "name": "秒看",
       "type": 3,
       "quickSearch": 1,
