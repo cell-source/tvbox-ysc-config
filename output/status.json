@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 15:55:55",
+  "updated_at": "2026-10-31 02:58:10",
   "repo": "cell-source/tvbox-ysc-config",
   "sources": [
     {
@@ -55,9 +55,8 @@
       "id": "jundie",
       "name": "俊佬在线",
       "ok": true,
-      "used_url": "(缓存)",
-      "error": "HTTPConnectionPool(host='home.jundie.top', port=81): Read timed out. (read timeout=20)",
-      "cached": true
+      "used_url": "http://home.jundie.top:81/top98.json",
+      "error": null
     },
     {
       "id": "kstore-aowu",
