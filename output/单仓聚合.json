@@ -6763,6 +6763,12 @@
       "index": 1
     },
     {
+      "name": "洛雪",
+      "key": "洛雪",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py"
+    },
+    {
       "key": "SZ",
       "name": "山楂影视",
       "type": 3,
@@ -6864,10 +6870,16 @@
       "api": "https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py"
     },
     {
-      "key": "4k-av",
-      "name": "4k-av",
+      "key": "4kav",
+      "name": "4kav",
       "type": 3,
-      "api": "https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py"
+      "api": "https://pan.szfx.top/down.php/1fa2308fcccbbd9d125344104d9ca158.py"
+    },
+    {
+      "key": "4kvm",
+      "name": "4kvm",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/dfed1a691e37acdc31b5505f2a6bb1b3.js"
     },
     {
       "key": "一个影视",
@@ -6901,17 +6913,6 @@
         "ratio": 1.33
       },
       "changeable": 1
-    },
-    {
-      "key": "分享",
-      "name": "枫叶",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/b963d79ea0ea6e386515863d823eab89.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "playable": 1
     },
     {
       "key": "分享1",
@@ -7790,7 +7791,7 @@
       "key": "qw",
       "name": "七味",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
+      "api": "https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py",
       "category": "综合",
       "searchable": 1
     },
@@ -11347,17 +11348,6 @@
       "category": "综合"
     },
     {
-      "key": "看客联盟[skapp]",
-      "name": "💝分享联盟",
-      "type": 3,
-      "api": "./PY/skapp.py",
-      "ext": {
-        "host": "https://kankelm.cn:2024/appdomain.txt",
-        "key": "ygcnbcvybqqckwqy",
-        "iv": "1583560747143708"
-      }
-    },
-    {
       "key": "maoystv6_王子",
       "name": "💝分享王子",
       "type": 3,
@@ -11382,6 +11372,23 @@
         "key": "88689667dce61725",
         "dataIv": "88689667dce61725"
       }
+    },
+    {
+      "key": "看客联盟[skapp]",
+      "name": "💝分享联盟",
+      "type": 3,
+      "api": "./PY/skapp.py",
+      "ext": {
+        "host": "https://kankelm.cn:2024/appdomain.txt",
+        "key": "ygcnbcvybqqckwqy",
+        "iv": "1583560747143708"
+      }
+    },
+    {
+      "key": "小蜜蜂",
+      "name": "💝分享蜜蜂",
+      "type": 3,
+      "api": "./PY/小蜜蜂.py"
     },
     {
       "key": "麦田影院[AppV2]",
