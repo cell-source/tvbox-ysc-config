@@ -396,6 +396,12 @@
       }
     },
     {
+      "key": "美剧侠.py",
+      "name": "💝分享美剧",
+      "type": 3,
+      "api": "./PY/美剧侠.py"
+    },
+    {
       "key": "小蜜蜂",
       "name": "💝分享蜜蜂",
       "type": 3,
@@ -434,12 +440,6 @@
       }
     },
     {
-      "key": "分享多多.py",
-      "name": "💝分享多多",
-      "type": 3,
-      "api": "./PY/dd.py"
-    },
-    {
       "key": "请勿扒取",
       "name": "💝分享亢龙",
       "type": 1,
@@ -464,7 +464,7 @@
       "key": "人人视频",
       "name": "💝分享人人",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/人人视频.py"
+      "api": "./PY/人人视频.py"
     },
     {
       "key": "好好看",
@@ -506,9 +506,9 @@
       "name": "💝分享影探",
       "type": 3,
       "api": "./PY/影探4K.py",
-      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "js_腾讯视频",
@@ -527,7 +527,7 @@
       "key": "lX.py",
       "name": "💝分享洛雪",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/洛雪TV.py"
+      "api": "./PY/洛雪TV.py"
     },
     {
       "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666",
@@ -565,13 +565,7 @@
       "key": "追剧达人",
       "name": "💝分享达人",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/追剧达人.py"
-    },
-    {
-      "key": "咸鱼影视",
-      "name": "💝分享咸鱼",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py"
+      "api": "./PY/追剧达人.py"
     },
     {
       "key": "分享者影巢.py",
@@ -584,12 +578,6 @@
       "name": "💝分享界影",
       "type": 3,
       "api": "./PY/界影视.py"
-    },
-    {
-      "key": "达达兔影院",
-      "name": "💝分享达兔",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/达达兔影院(关梯).py"
     },
     {
       "key": "应该可以",
@@ -611,25 +599,25 @@
       "key": "大马猴",
       "name": "💝分享大马",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/大马猴.py"
+      "api": "./PY/大马猴.py"
     },
     {
       "key": "开端影视",
       "name": "💝分享开端",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开端影视.py"
+      "api": "./PY/开端影视.py"
     },
     {
       "key": "果果短剧",
       "name": "💝分享果果",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/果果短剧.py"
+      "api": "./PY/果果短剧.py"
     },
     {
       "key": "白洋影院",
       "name": "💝分享白洋",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/白洋影院.py"
+      "api": "./PY/白洋影院.py"
     },
     {
       "key": "cat_荐片app",
@@ -668,14 +656,14 @@
       "key": "高清点播",
       "name": "💝分享高清",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/高清点播.py",
+      "api": "./PY/高清点播.py",
       "changeable": 0
     },
     {
       "key": "草莓影视",
       "name": "💝分享草莓",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/草莓影视.py",
+      "api": "./PY/草莓影视.py",
       "changeable": 0
     },
     {
@@ -701,12 +689,6 @@
       "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"
     },
     {
-      "key": "首映网",
-      "name": "💝分享首映",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/首映网.py"
-    },
-    {
       "key": "一起影视",
       "name": "💝分享一起",
       "type": 3,
@@ -716,19 +698,13 @@
       "key": "厂长影视",
       "name": "💝分享厂长",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/厂长影视.py"
-    },
-    {
-      "key": "初见影视",
-      "name": "💝分享初见",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/初见影视.py"
+      "api": "./PY/厂长影视.py"
     },
     {
       "key": "GZ",
       "name": "💝分享瓜子",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/瓜子APP.py"
+      "api": "./PY/瓜子APP.py"
     },
     {
       "key": "TVB云播",
@@ -751,16 +727,10 @@
       }
     },
     {
-      "key": "影视大全",
-      "name": "💝分享大全",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影视大全.py"
-    },
-    {
       "key": "VS影院",
       "name": "💝分享影院",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/VS影院.py"
+      "api": "./PY/VS影院.py"
     },
     {
       "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848346373787648?token=banye666",
@@ -1159,25 +1129,25 @@
       "key": "爱奇艺",
       "name": "💝分享奇艺",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
+      "api": "./PY/爱奇艺.py"
     },
     {
       "key": "YK",
       "name": "💝分享优酷",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/优酷视频.py"
+      "api": "./PY/优酷视频.py"
     },
     {
       "key": "txvm",
       "name": "💝分享腾讯",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾讯视频.py"
+      "api": "./PY/腾讯视频.py"
     },
     {
       "key": "MGtv",
       "name": "💝分享芒果",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/芒果TV.py"
+      "api": "./PY/芒果TV.py"
     },
     {
       "key": "哔哩视频JS",
