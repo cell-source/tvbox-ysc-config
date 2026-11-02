@@ -12,14 +12,14 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-11-02 16:38:00（北京时间） · 成功 **21/21** 个源
+> 🔄 最近更新：2026-11-03 06:33:29（北京时间） · 成功 **21/21** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
 | 4K小盒子 | ✅ 成功 | `http://xhztv.top/4k.json` |
 | Clun在线 | ✅ 成功 | `https://clun.top/box.json` |
 | 东篱线路 | ✅ 成功 | `https://raw.githubusercontent.com/chitue/dongliTV/main/api.json` |
-| 肥猫 | ✅ 成功 | `http://肥猫.net/tv` |
+| 肥猫 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | 高天流云js | ✅ 成功 | `https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json` |
 | 宝盒备用 | ✅ 成功 | `https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json` |
 | 哈基米 | ✅ 成功 | `https://17264.kstore.space/哈基米.png` |
