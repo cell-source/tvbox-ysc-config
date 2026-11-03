@@ -385,6 +385,17 @@
       }
     },
     {
+      "key": "独播库_async",
+      "name": "💝分享独播",
+      "type": 3,
+      "api": "./py/独播库.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
       "key": "看客联盟[skapp]",
       "name": "💝分享联盟",
       "type": 3,
@@ -527,7 +538,7 @@
       "key": "lX.py",
       "name": "💝分享洛雪",
       "type": 3,
-      "api": "./PY/洛雪TV.py"
+      "api": "./PY/落雪.py"
     },
     {
       "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666",
@@ -952,17 +963,6 @@
       "type": 3,
       "api": "https://wget.la/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/py/Applzxw.py",
       "ext": "http://38.55.237.41:8762"
-    },
-    {
-      "key": "独播库_async",
-      "name": "💝分享独播",
-      "type": 3,
-      "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
     },
     {
       "key": "奇异果",

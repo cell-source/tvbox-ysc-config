@@ -6759,7 +6759,7 @@
       "timeout": 60
     },
     {
-      "key": "Q群807916734",
+      "key": "douban",
       "name": "豆瓣",
       "type": 3,
       "api": "https://meow.668yun.top/api/s/MMpQwoycF4anEkz5K1ZfMO0mqIDjObj5/豆瓣.js",
@@ -9590,7 +9590,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261102】🐮",
+      "name": "🐮【更新日期:20261103】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -10155,14 +10155,6 @@
       "name": "🎃‍小马┃听书🎃",
       "type": 3,
       "api": "csp_BookHeMaGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "BookAiShiJie",
-      "name": "🎃‍极品┃听书🎃",
-      "type": 3,
-      "api": "csp_BookAiShiJieGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -11416,6 +11408,17 @@
       }
     },
     {
+      "key": "独播库_async",
+      "name": "💝分享独播",
+      "type": 3,
+      "api": "./py/独播库.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
       "key": "看客联盟[skapp]",
       "name": "💝分享联盟",
       "type": 3,
@@ -11558,7 +11561,7 @@
       "key": "lX.py",
       "name": "💝分享洛雪",
       "type": 3,
-      "api": "./PY/洛雪TV.py"
+      "api": "./PY/落雪.py"
     },
     {
       "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666",
@@ -11983,17 +11986,6 @@
       "type": 3,
       "api": "https://wget.la/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/py/Applzxw.py",
       "ext": "http://38.55.237.41:8762"
-    },
-    {
-      "key": "独播库_async",
-      "name": "💝分享独播",
-      "type": 3,
-      "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
     },
     {
       "key": "奇异果",
