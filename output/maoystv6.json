@@ -150,6 +150,15 @@
       "changeable": 1
     },
     {
+      "key": "影探",
+      "name": "💝分享探戈",
+      "type": 3,
+      "api": "./PY/影探4K.py",
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
       "key": "咕噜",
       "name": "💝分享咕噜",
       "type": 3,
@@ -299,6 +308,16 @@
       "name": "💝分享山楂",
       "type": 3,
       "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py"
+    },
+    {
+      "key": "免登悦视界",
+      "name": "💝分享悦界",
+      "type": 3,
+      "api": "https://193.075999.xyz/TV/ck/免登悦视界.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "Easy-EmbyJS",
@@ -513,15 +532,6 @@
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
     },
     {
-      "key": "影探",
-      "name": "💝分享影探",
-      "type": 3,
-      "api": "./PY/影探4K.py",
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
       "key": "js_腾讯视频",
       "name": "💝分享企鹅",
       "type": 3,
@@ -595,16 +605,6 @@
       "name": "💝分享4|K",
       "type": 3,
       "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
-    },
-    {
-      "key": "樱之空动漫",
-      "name": "💝分享樱空",
-      "type": 3,
-      "api": "https://sub.lytvs.top/pydl/yingzhikongdongman.py?tk=cj_f215e4ef",
-      "ext": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "category": "综合"
     },
     {
       "key": "大马猴",
@@ -1297,39 +1297,6 @@
       "filterable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/分享caiji.json"
-    },
-    {
-      "key": "奇优",
-      "name": "💖分享奇优",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar",
-      "ext": {
-        "请求头": "手机",
-        "主页url": "http://www.qiyoudy2.com/",
-        "简介": "&&</div>",
-        "数组": "<div class=\"stui-vodlist__box\">&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "text-right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "搜索url": "http://www.qiyoudy2.com/search.php;post;searchword={wd}",
-        "搜索数组": "v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "text-right\">&&</span>",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "data-toggle=\"tab\"&&</li>",
-        "线路标题": ">&&</a>",
-        "播放数组": "stui-content__playlist clearfix&&</ul>",
-        "播放列表": "<li>&&</li>",
-        "播放标题": ">&&</a>",
-        "分类url": "http://www.qiyoudy2.com/list/{cateId}_{catePg}.html;;ak",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
     },
     {
       "key": "魅影影视",
