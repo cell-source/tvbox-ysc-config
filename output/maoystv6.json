@@ -282,6 +282,16 @@
       }
     },
     {
+      "key": "快映fox",
+      "name": "💝分享快映",
+      "type": 3,
+      "api": "./PY/Appfox.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.pjb777.top/ky4kbgq7b273.json"
+    },
+    {
       "key": "白嫖鸭",
       "name": "💝分享北漂",
       "type": 3,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 04:22:44",
+  "updated_at": "2026-11-04 16:19:29",
   "repo": "cell-source/tvbox-ysc-config",
   "sources": [
     {
@@ -141,9 +141,8 @@
       "id": "zhenxin",
       "name": "真心",
       "ok": true,
-      "used_url": "(缓存)",
-      "error": "HTTPSConnectionPool(host='www.252035.xyz', port=443): Max retries exceeded with url: /z/FongMi.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))",
-      "cached": true
+      "used_url": "https://www.252035.xyz/z/FongMi.json",
+      "error": null
     },
     {
       "id": "zq",
