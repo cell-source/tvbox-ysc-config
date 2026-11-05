@@ -12,7 +12,7 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-11-05 16:44:14（北京时间） · 成功 **21/21** 个源
+> 🔄 最近更新：2026-11-06 04:55:26（北京时间） · 成功 **21/21** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
@@ -32,7 +32,7 @@
 | 讴歌 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | 小马线路 | ✅ 成功 | `https://szyyds.cn/tv/x.json` |
 | 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
-| 玄珠 | ✅ 成功 | `https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json` |
+| 玄珠 | 📦 缓存 | 上次成功配置（本次更新未抓到，沿用缓存） |
 | 香雅情 | ✅ 成功 | `https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` |
 | 心魔在线 | ✅ 成功 | `https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json` |
 | 真心 | ✅ 成功 | `https://www.252035.xyz/z/FongMi.json` |
