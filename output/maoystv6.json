@@ -154,9 +154,18 @@
       "name": "💝分享探戈",
       "type": 3,
       "api": "./PY/影探4K.py",
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0
+      "changeable": 1
+    },
+    {
+      "key": "hT.py",
+      "name": "💝分享河豚",
+      "type": 3,
+      "api": "./PY/河豚.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "咕噜",
@@ -169,31 +178,6 @@
       "name": "💝分享咕嘟",
       "type": 3,
       "api": "./PY/分享者咕噜.py"
-    },
-    {
-      "key": "懒懒视频APP",
-      "name": "💝分享懒懒",
-      "type": 3,
-      "api": "./JS/llsp.min.js",
-      "ext": {
-        "appId": "522",
-        "verCode": 58,
-        "verName": "2.4.21",
-        "pkg": "com.lanlanys.app",
-        "appKey": "dec99f2e3071ece8c7aa5b2fd5800a6f",
-        "appSecret": "d686e49b39c996326bfe7b5f28846bb8",
-        "soMd5": "99b9e59d555d4bdb5c7adf14c7f901e6",
-        "apkMd5": "78c25ff2caeb04f9199303e01d039eb6",
-        "pkgMd5": "4f7f5abdc826f5e62164fb0d0af1a9b1",
-        "signMd5": "9007968b9871d31ce96ed812d1128f0d",
-        "host": [
-          "https://llsp1.oss-cn-hangzhou.aliyuncs.com/llsp20250605.json",
-          "https://llsp-1330823543.cos.ap-guangzhou.myqcloud.com/llsp20250605.json"
-        ],
-        "newHost": "http://118.31.73.148:9981",
-        "bizHost": "http://llsp3.terribly.cn",
-        "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqAp1r0KfdEbfAATZXqWMQdEHCfeMdsI7gegO2CtQgzJ5UcXHtdnRUnWd8uKHd5p1jB8ndpTmZEv6BpODgYVLOqAjpO44Z1j6WJVXZ0h19zdjyzzOqhBkEmmKPcQiF+LYqjE/0t0xdNoxgxDBQXyK1PPfmQzfmhhlacQnStL181oCRimZhwEjjha4sqnjmMJTg6JBf6zj5o2btutVT8NUMMZRSmLXqMoDj6oTJapkStlRynihNKn9AiCyozUa6VOmrlZZEnL4yjIgBqYCIS7UAyWE38HeBj7OAEAn7IBrnn1Qrw9u0J2L3Fd40zdHcmBYZa6OF05GNpR1SVlmQtL/QwIDAQAB"
-      }
     },
     {
       "key": "南瓜视频APP",
