@@ -168,6 +168,24 @@
       "filterable": 0
     },
     {
+      "key": "mino_py",
+      "name": "💝分享米诺",
+      "type": 3,
+      "api": "./PY/mino.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "tx_py",
+      "name": "💝分享迅腾",
+      "type": 3,
+      "api": "./PY/腾讯4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "咕噜",
       "name": "💝分享咕噜",
       "type": 3,
